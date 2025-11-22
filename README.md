@@ -14,9 +14,6 @@ Dane pochodzą z dwóch zestawów:
 **Źródło danych:**  
 P. Cortez and A. Silva (2008), *UCI Machine Learning Repository – Student Alcohol Consumption*.
 
-## Zakres analizy
-W projekcie wykonano m.in.:
-
 ## Technologie i narzędzia
 - **R**  
 - tidyverse (dplyr, ggplot2)  
